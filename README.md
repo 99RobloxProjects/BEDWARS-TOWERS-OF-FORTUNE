@@ -1,2 +1,7 @@
 # BEDWARS-TOWERS-OF-FORTUNE
-A silly game of standing on a bedrock pillar while receiving random items! But these aren't just any ordinary items, these are items from the entire game. It could be anything - from a cloak to some items you didn't even know existed!
+Steps to set up:
+- Create a custom match
+- Put all the scripts from the src folder into your BedWars code editor with their names matching the exact names from the src folder (don't include file extensions in BedWars script editor names, or this will not work! and make sure to keep the names exact)
+- Run and enjoy, or if you'd like to make it your own: feel free to customise the configs in each script or fork this project to your liking
+
+Inspired the Towers of Fortune gamemode from popular minigame-focused Minecraft servers
