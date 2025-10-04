@@ -1,3 +1,5 @@
+-- spawnteleporter.lua
+-- name this code however you want, it's not a module
 local config = {
     targetPos = Vector3.new(243, 72, 435),
     pillarRadius = 50,
