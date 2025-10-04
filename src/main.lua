@@ -131,7 +131,6 @@ local CONFIG = {
 
 local randomItems = require("randomItems")
 local progressBars = require("progressBars")
-local mapBuilder = require("mapBuilder")
 
 local TOTAL_RARITY_WEIGHT = 0
 for _, rarity in ipairs(CONFIG.LUCKY_BLOCKS) do
