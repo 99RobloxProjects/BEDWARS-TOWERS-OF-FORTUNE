@@ -5,3 +5,6 @@ Steps to set up:
 - Run and enjoy, or if you'd like to make it your own: feel free to customise the configs in each script or fork this project to your liking
 
 Inspired the Towers of Fortune gamemode from popular minigame-focused Minecraft servers
+
+## Where to run
+This repository is focused on the creative custom match functionality of ROBLOX BedWars
